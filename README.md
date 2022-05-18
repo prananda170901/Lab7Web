@@ -13,9 +13,9 @@
 ## 1. Download Xampp
 
 <br> Unduh XAMPP dari https://www.apachefriends.org/download.html
-![img](img/SS1.png)
+![p](Img/SS1.png)
 
 ## 2. Menjalankan Web Server
 
 <br>Untuk menjalankan web server dari menu XAMPP Control
-![img](img/SS2.png)
+![p](Img/SS2.png)
