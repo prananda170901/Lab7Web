@@ -55,3 +55,18 @@
 
 <br> Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/php_dasar.php
 ![p](Img/SS5.png)
+
+### Variable PHP
+
+<br>Menambahkan variable pada program.
+
+```<h1>Menggunakan Variable</h1>
+<?php
+$nim = "312010130";
+$nama = 'Prananda Aditya';
+echo "NIM : " . $nim . "<br>";
+echo "Nama : $nama";
+?>
+```
+
+![p](Img/SS6.png)
