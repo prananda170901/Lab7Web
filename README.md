@@ -19,3 +19,9 @@
 
 <br>Untuk menjalankan web server dari menu XAMPP Control
 ![p](Img/SS2.png)
+
+> Uji coba apakah server sudah bekerja dengan baik http://127.0.0.1 atau http://localhost
+> Tampil halaman utama XAMPP jika server sudah bekerja dengan baik.
+> Dokumen Website semua file website tempatkan di direktori:/xampp/htdocs/
+> Database MySQL Direktori:/xampp/mysql
+> Manajemen database: http://localhost/phpmyadmin
