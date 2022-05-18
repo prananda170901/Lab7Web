@@ -36,6 +36,7 @@
 ## 4. PHP Dasar
 
 <br>Buat filr baru dengan nama php_dasar.php pada directory tersebut. kemudian buat kode seperti berikut.
+
 `` <!DOCTYPE html>
 
 <html lang="en">
@@ -51,4 +52,3 @@
 </body>
 </html>
 ``
-![p](Img/SS5.png)
