@@ -37,7 +37,7 @@
 
 <br>Buat filr baru dengan nama php_dasar.php pada directory tersebut. kemudian buat kode seperti berikut.
 
-`` <!DOCTYPE html>
+```<!DOCTYPE html>
 
 <html lang="en">
 <head>
@@ -51,3 +51,4 @@
  ?>
 </body>
 </html>
+```
