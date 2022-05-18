@@ -53,4 +53,5 @@
 </html>
 ```
 
+<br> Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/php_dasar.php
 ![p](Img/SS5.png)
