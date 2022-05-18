@@ -25,3 +25,30 @@
 <br>> Dokumen Website semua file website tempatkan di direktori:/xampp/htdocs/
 <br>> Database MySQL Direktori:/xampp/mysql
 <br>> Manajemen database: http://localhost/phpmyadmin
+
+## 3. Memulai PHP
+
+<br>Buat Folder lab7_php_dasar pada root directory web server (/xampp/htdocs)
+![p](Img/SS3.png)
+<br>Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab7_php_dasar/
+![p](Img/SS4.png)
+
+## 4. PHP Dasar
+
+<br>Buat filr baru dengan nama php_dasar.php pada directory tersebut. kemudian buat kode seperti berikut.
+`` <!DOCTYPE html>
+
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <title>PHP Dasar</title>
+</head>
+<body>
+ <h1>Belajar PHP Dasar</h1>
+ <?php
+ echo "Hello World";
+ ?>
+</body>
+</html>
+``
+![p](Img/SS5.png)
