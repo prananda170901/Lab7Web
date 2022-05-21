@@ -70,3 +70,17 @@ echo "Nama : $nama";
 ```
 
 ![p](Img/SS6.png)
+
+### Predefine Variable
+
+<br>Kodenya Seperti Berikut
+
+```
+<?php
+echo 'Selamat Datang ' . $_GET['nama'];
+?>
+```
+
+<br>Untuk Mengaksesnya gunakan URL:
+http://localhost/lab7_php_dasar/php_dasar.php?nama=Prananda
+![p](Img/SS7.png)
